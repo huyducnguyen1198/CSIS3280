@@ -1,0 +1,6 @@
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\MathLibrary\obj\Debug\MathLibrary.pdb

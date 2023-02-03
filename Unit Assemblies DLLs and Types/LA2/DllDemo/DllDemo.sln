@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllDemo", "DllDemo\DllDemo.csproj", "{E594F4C4-83C0-43A1-A8B4-1D317CAB4FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{A3E66F19-81DB-434C-A460-799727D4F874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E594F4C4-83C0-43A1-A8B4-1D317CAB4FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E594F4C4-83C0-43A1-A8B4-1D317CAB4FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E594F4C4-83C0-43A1-A8B4-1D317CAB4FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E594F4C4-83C0-43A1-A8B4-1D317CAB4FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E66F19-81DB-434C-A460-799727D4F874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E66F19-81DB-434C-A460-799727D4F874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E66F19-81DB-434C-A460-799727D4F874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E66F19-81DB-434C-A460-799727D4F874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F287B69-2B4D-4D35-8A2F-817F40447D1E}
+	EndGlobalSection
+EndGlobal

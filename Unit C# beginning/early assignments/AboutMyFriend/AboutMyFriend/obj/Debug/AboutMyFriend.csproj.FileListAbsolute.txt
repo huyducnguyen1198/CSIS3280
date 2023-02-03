@@ -1,0 +1,10 @@
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\bin\Debug\AboutMyFriend.exe.config
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\bin\Debug\AboutMyFriend.exe
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\bin\Debug\AboutMyFriend.pdb
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\bin\Debug\AboutMySelf.dll
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\obj\Debug\AboutMyFriend.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\obj\Debug\AboutMyFriend.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\obj\Debug\AboutMyFriend.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\obj\Debug\AboutMyFriend.csproj.CopyComplete
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\obj\Debug\AboutMyFriend.exe
+C:\Users\ndhuy\source\repos\AboutMyFriend\AboutMyFriend\obj\Debug\AboutMyFriend.pdb

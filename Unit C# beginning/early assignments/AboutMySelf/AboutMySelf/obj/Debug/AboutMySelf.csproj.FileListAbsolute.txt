@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\bin\Debug\AboutMySelf.dll
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\bin\Debug\AboutMySelf.pdb
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\obj\Debug\AboutMySelf.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\obj\Debug\AboutMySelf.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\obj\Debug\AboutMySelf.dll
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\obj\Debug\AboutMySelf.pdb
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\bin\Debug\AboutMySelf-JustinSign.dll
+C:\Users\ndhuy\source\repos\AboutMySelf\AboutMySelf\obj\Debug\AboutMySelf.csproj.CopyComplete

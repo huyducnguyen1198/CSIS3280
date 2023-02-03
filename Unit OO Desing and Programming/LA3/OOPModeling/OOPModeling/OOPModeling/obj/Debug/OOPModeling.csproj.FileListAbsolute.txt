@@ -1,0 +1,20 @@
+G:\My Drive\teaching\3280\InClassDemo\Unit2\OOPModeling\OOPModeling\bin\Debug\OOPModeling.exe.config
+G:\My Drive\teaching\3280\InClassDemo\Unit2\OOPModeling\OOPModeling\bin\Debug\OOPModeling.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit2\OOPModeling\OOPModeling\bin\Debug\OOPModeling.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit2\OOPModeling\OOPModeling\obj\Debug\OOPModeling.csprojAssemblyReference.cache
+G:\My Drive\teaching\3280\InClassDemo\Unit2\OOPModeling\OOPModeling\obj\Debug\OOPModeling.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit2\OOPModeling\OOPModeling\obj\Debug\OOPModeling.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit3\OOPModeling\OOPModeling\bin\Debug\OOPModeling.exe.config
+G:\My Drive\teaching\3280\InClassDemo\Unit3\OOPModeling\OOPModeling\bin\Debug\OOPModeling.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit3\OOPModeling\OOPModeling\bin\Debug\OOPModeling.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit3\OOPModeling\OOPModeling\obj\Debug\OOPModeling.csprojAssemblyReference.cache
+G:\My Drive\teaching\3280\InClassDemo\Unit3\OOPModeling\OOPModeling\obj\Debug\OOPModeling.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit3\OOPModeling\OOPModeling\obj\Debug\OOPModeling.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\bin\Debug\OOPModeling.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\bin\Debug\OOPModeling.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\bin\Debug\OOPModeling.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\obj\Debug\OOPModeling.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\obj\Debug\OOPModeling.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\obj\Debug\OOPModeling.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\obj\Debug\OOPModeling.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA3\OOPModeling\OOPModeling\OOPModeling\obj\Debug\OOPModeling.pdb

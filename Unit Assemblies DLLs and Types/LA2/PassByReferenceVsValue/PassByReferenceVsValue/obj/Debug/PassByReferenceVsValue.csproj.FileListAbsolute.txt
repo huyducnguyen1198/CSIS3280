@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\bin\Debug\PassByReferenceVsValue.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\bin\Debug\PassByReferenceVsValue.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\bin\Debug\PassByReferenceVsValue.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\obj\Debug\PassByReferenceVsValue.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\obj\Debug\PassByReferenceVsValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\obj\Debug\PassByReferenceVsValue.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\obj\Debug\PassByReferenceVsValue.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\PassByReferenceVsValue\PassByReferenceVsValue\obj\Debug\PassByReferenceVsValue.pdb

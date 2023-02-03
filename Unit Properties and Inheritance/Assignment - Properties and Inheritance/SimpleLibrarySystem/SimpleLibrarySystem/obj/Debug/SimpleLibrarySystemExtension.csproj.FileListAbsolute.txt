@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\obj\Debug\SimpleLibrarySystemExtension.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\obj\Debug\SimpleLibrarySystemExtension.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\obj\Debug\SimpleLibrarySystemExtension.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\obj\Debug\SimpleLibrarySystem.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\obj\Debug\SimpleLibrarySystem.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\bin\Debug\SimpleLibrarySystem.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\bin\Debug\SimpleLibrarySystem.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Properties and Inheritance\SimpleLibrarySystem\SimpleLibrarySystem\bin\Debug\SimpleLibrarySystem.pdb

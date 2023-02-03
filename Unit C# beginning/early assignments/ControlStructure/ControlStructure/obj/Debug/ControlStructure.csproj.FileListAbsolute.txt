@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\bin\Debug\ControlStructure.exe.config
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\bin\Debug\ControlStructure.exe
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\bin\Debug\ControlStructure.pdb
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\obj\Debug\ControlStructure.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\obj\Debug\ControlStructure.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\obj\Debug\ControlStructure.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\obj\Debug\ControlStructure.exe
+C:\Users\ndhuy\source\repos\ControlStructure\ControlStructure\obj\Debug\ControlStructure.pdb

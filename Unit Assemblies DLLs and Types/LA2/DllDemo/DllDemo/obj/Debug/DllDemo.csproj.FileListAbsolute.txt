@@ -1,0 +1,11 @@
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\bin\Debug\DllDemo.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\bin\Debug\DllDemo.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\bin\Debug\DllDemo.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\bin\Debug\MathLibrary.dll
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\bin\Debug\MathLibrary.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\obj\Debug\DllDemo.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\obj\Debug\DllDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\obj\Debug\DllDemo.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\obj\Debug\DllDemo.csproj.CopyComplete
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\obj\Debug\DllDemo.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA2\DllDemo\DllDemo\obj\Debug\DllDemo.pdb

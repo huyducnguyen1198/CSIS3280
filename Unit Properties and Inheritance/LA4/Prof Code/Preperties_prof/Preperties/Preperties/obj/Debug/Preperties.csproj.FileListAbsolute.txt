@@ -1,0 +1,6 @@
+G:\My Drive\teaching\3280\InClassDemo\Unit4\Preperties\Preperties\bin\Debug\Preperties.exe.config
+G:\My Drive\teaching\3280\InClassDemo\Unit4\Preperties\Preperties\bin\Debug\Preperties.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit4\Preperties\Preperties\bin\Debug\Preperties.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit4\Preperties\Preperties\obj\Debug\Preperties.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit4\Preperties\Preperties\obj\Debug\Preperties.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit4\Preperties\Preperties\obj\Debug\Preperties.csprojAssemblyReference.cache

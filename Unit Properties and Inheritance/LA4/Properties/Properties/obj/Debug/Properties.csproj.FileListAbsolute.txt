@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\ndhuy\source\repos\CSIS3280\LA4\Properties\Properties\obj\Debug\Properties.pdb
