@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\bin\Debug\CS3280FileOperations.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\bin\Debug\CS3280FileOperations.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\bin\Debug\CS3280FileOperations.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\obj\Debug\CS3280FileOperations.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\obj\Debug\CS3280FileOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\obj\Debug\CS3280FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\obj\Debug\CS3280FileOperations.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\CS3280FileOperations\CS3280FileOperations\obj\Debug\CS3280FileOperations.pdb

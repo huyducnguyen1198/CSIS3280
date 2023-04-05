@@ -1,0 +1,11 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\bin\Debug\LA  datatime.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\bin\Debug\LA  datatime.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\bin\Debug\LA  datatime.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LADateTimePicker.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LADateTimePicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LADateTimePicker.RootForm.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LA__datatime.Properties.Resources.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LADateTimePicker.csproj.GenerateResource.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LADateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LA  datatime.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - More Windows Controls + File ReadingWriting + Exception Intro\LA  datatime\LA  datatime\obj\Debug\LA  datatime.pdb

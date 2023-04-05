@@ -1,0 +1,12 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\bin\Debug\Serialization_Exception.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\bin\Debug\Serialization_Exception.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\bin\Debug\Serialization_Exception.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.Properties.Resources.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.csproj.GenerateResource.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.MainForm.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Assignment - Object Serialization and Exception handling\Serialization_Exception\Serialization_Exception\obj\Debug\Serialization_Exception.SerializeForm.resources

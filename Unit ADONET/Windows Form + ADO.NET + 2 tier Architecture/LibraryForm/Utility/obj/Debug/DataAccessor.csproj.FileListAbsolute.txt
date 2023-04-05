@@ -1,0 +1,7 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\bin\Debug\Utility.dll.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\bin\Debug\Utility.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\bin\Debug\Utility.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\obj\Debug\DataAccessor.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\obj\Debug\DataAccessor.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\obj\Debug\Utility.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\Utility\obj\Debug\Utility.pdb

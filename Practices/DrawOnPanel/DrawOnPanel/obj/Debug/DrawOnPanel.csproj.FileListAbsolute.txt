@@ -1,0 +1,11 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\bin\Debug\DrawOnPanel.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\bin\Debug\DrawOnPanel.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\bin\Debug\DrawOnPanel.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.Form1.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.Properties.Resources.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.csproj.GenerateResource.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\DrawOnPanel\obj\Debug\DrawOnPanel.pdb

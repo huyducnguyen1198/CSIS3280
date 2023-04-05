@@ -1,0 +1,21 @@
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\bin\Debug\WinFormAssignment4.exe.config
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\bin\Debug\WinFormAssignment4.exe
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\bin\Debug\WinFormAssignment4.pdb
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csprojAssemblyReference.cache
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.Form1.resources
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.Properties.Resources.resources
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csproj.GenerateResource.cache
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.exe
+C:\Users\MTAdmin\source\repos\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\bin\Debug\WinFormAssignment4.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\bin\Debug\WinFormAssignment4.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\bin\Debug\WinFormAssignment4.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.Form1.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.Properties.Resources.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csproj.GenerateResource.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\WinFormAssignment4\WinFormAssignment4\WinFormAssignment4\obj\Debug\WinFormAssignment4.pdb

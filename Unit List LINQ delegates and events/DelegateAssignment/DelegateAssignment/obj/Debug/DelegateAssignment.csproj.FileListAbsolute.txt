@@ -1,0 +1,11 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\bin\Debug\DelegateAssignment.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.Form1.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.Properties.Resources.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.GenerateResource.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit List LINQ delegates and events\DelegateAssignment\DelegateAssignment\obj\Debug\DelegateAssignment.pdb

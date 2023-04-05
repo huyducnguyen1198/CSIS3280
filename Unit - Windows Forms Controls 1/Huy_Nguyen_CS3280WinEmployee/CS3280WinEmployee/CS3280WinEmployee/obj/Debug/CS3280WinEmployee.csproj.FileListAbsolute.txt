@@ -1,0 +1,9 @@
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csprojAssemblyReference.cache
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.Form1.resources
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.Properties.Resources.resources
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csproj.GenerateResource.cache
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.exe.config
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.pdb

@@ -1,0 +1,8 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\AdoNet\AdoNet\obj\Debug\AdoNet.pdb

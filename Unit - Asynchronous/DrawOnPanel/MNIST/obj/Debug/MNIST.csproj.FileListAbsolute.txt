@@ -1,0 +1,90 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\MNIST.dll.config
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\MNIST.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\MNIST.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Buffers.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.CodeDom.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Memory.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Threading.Channels.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Buffers.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Memory.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Threading.Channels.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\obj\Debug\MNIST.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\obj\Debug\MNIST.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\obj\Debug\MNIST.csproj.CopyComplete
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\obj\Debug\MNIST.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\obj\Debug\MNIST.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.LightGbm.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Practices\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.LightGbm.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\MNIST.dll.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\MNIST.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\MNIST.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.LightGbm.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Buffers.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.CodeDom.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Memory.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Threading.Channels.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.LightGbm.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Buffers.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Memory.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Threading.Channels.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\obj\Debug\MNIST.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\obj\Debug\MNIST.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\obj\Debug\MNIST.csproj.CopyComplete
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\obj\Debug\MNIST.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit - Asynchronous\DrawOnPanel\MNIST\obj\Debug\MNIST.pdb

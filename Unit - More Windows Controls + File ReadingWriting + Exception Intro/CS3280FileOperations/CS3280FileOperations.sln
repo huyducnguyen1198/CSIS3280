@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3280FileOperations", "CS3280FileOperations\CS3280FileOperations.csproj", "{C3DD8975-3DF1-4876-81C4-1A6602C48BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DD8975-3DF1-4876-81C4-1A6602C48BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DD8975-3DF1-4876-81C4-1A6602C48BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DD8975-3DF1-4876-81C4-1A6602C48BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DD8975-3DF1-4876-81C4-1A6602C48BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6615AAD-D138-49F3-B7CD-03C36965DABA}
+	EndGlobalSection
+EndGlobal

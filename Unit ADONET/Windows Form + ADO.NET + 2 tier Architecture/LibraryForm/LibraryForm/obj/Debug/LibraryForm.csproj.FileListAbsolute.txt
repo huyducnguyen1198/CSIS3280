@@ -1,0 +1,14 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\bin\Debug\LibraryForm.exe.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\bin\Debug\LibraryForm.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\bin\Debug\LibraryForm.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\bin\Debug\Utility.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\bin\Debug\Utility.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\bin\Debug\Utility.dll.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.Properties.Resources.resources
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.csproj.GenerateResource.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.csproj.CopyComplete
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.exe
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\Windows Form + ADO.NET + 2 tier Architecture\LibraryForm\LibraryForm\obj\Debug\LibraryForm.pdb

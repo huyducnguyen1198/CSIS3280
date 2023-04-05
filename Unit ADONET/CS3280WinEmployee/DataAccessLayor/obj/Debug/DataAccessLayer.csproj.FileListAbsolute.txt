@@ -1,0 +1,7 @@
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\bin\Debug\DataAccessLayor.dll.config
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\bin\Debug\DataAccessLayor.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\bin\Debug\DataAccessLayor.pdb
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\obj\Debug\DataAccessLayor.dll
+C:\Users\ndhuy\source\repos\CSIS3280\Unit ADONET\CS3280WinEmployee\DataAccessLayor\obj\Debug\DataAccessLayor.pdb
